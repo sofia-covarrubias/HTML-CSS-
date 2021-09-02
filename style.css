@@ -1,0 +1,20 @@
+html 
+{
+  background-color: #E5F2EF;
+}
+
+h1 
+{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  margin-top: 0;
+  text-align: center;
+}
+
+h2 
+{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  margin-top: 0;
+  text-align: center;
+}
